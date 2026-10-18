@@ -38,8 +38,7 @@ A simple, offline-first tool for primary care nurses to:
 This is a prototype, not a certified medical device.
 
 #### 4. My Background
-
-Oladipupo D. — Nursing Officer (Ward Leader), Ophthalmic Nurse, BNSc Nursing, LAUTECH.
+Nursing Officer (Ward Leader), Ophthalmic Nurse, BNSc Nursing, LAUTECH.
 300+ bed hospital, eye ward leadership, community eye outreaches.
 
 Applicant — Global Master's in Health Informatics, Karolinska Institutet, Sweden. 2026.
@@ -56,8 +55,8 @@ Goal: Learn interoperability, clinical decision support, and ethical implementat
 #### 6. Contact & Collaboration
 
 Open to collaboration with eHealth students and primary care nurses.
-Email: [add your email]
-LinkedIn: [add your LinkedIn]
+Email: gabrielfestus@gmail.com 
+Whatsapp: +2347068036236
 
 ---
 *Built by a nurse, for nurses, to keep patients in care.*
