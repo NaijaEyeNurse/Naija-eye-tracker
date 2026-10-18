@@ -1,0 +1,5 @@
+- No real patient names stored
+- Consent for follow-up taken
+- Data stored locally, de-identified
+- This project does not diagnose, only supports referral decision
+- GDPR principles: minimal data, purpose limitation
