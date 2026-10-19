@@ -33,7 +33,7 @@ A simple, offline-first tool for primary care nurses to:
 
 - **Standard:** FHIR R4 (Patient, Encounter, ServiceRequest, Task)
 - **Stack:** Python, FastAPI, PostgreSQL, Streamlit for demo
-- **Principles:** Minimal data, de-identified, consent for follow-up, purpose limitation
+- **Principles:** Minimal data, de-identified, consent for follow-up, purpose limitation(GDPR)
 
 This is a prototype, not a certified medical device.
 
