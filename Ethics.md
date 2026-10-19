@@ -37,6 +37,6 @@ Even though data was collected in Nigeria, I build to Swedish/EU standard:
 This is a student learning project. Not a certified medical device under Swedish MPA or Nigerian NAFDAC. Do not use for real patient care without validation and approval.
 
 ---
-*Author: Oladipupo D., Ophthalmic Nurse, RN, BNSc.*
-*Contact: [add email]*
+*Author: Gabriel A., Ophthalmic Nurse, RN, BNSc.*
+*Contact: gabrielfestus@gmail.com*
 *Date: October 2026*
