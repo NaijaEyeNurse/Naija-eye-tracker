@@ -16,7 +16,7 @@ In Nigeria, patients don't go blind because there is no treatment. They go blind
 
 Current system: paper register. No follow-up. No accountability.
 
-This is personal. My father lost vision from diabetic retinopathy due to late referral.
+This is personal. My father lost vision from cataract due to late referral.
 
 #### 2. What I Am Building
 
@@ -33,7 +33,7 @@ A simple, offline-first tool for primary care nurses to:
 
 - **Standard:** FHIR R4 (Patient, Encounter, ServiceRequest, Task)
 - **Stack:** Python, FastAPI, PostgreSQL, Streamlit for demo
-- **Principles:** Minimal data, de-identified, consent for follow-up, purpose limitation (GDPR)
+- **Principles:** Minimal data, de-identified, consent for follow-up, purpose limitation
 
 This is a prototype, not a certified medical device.
 
@@ -41,7 +41,7 @@ This is a prototype, not a certified medical device.
 Nursing Officer (Ward Leader), Ophthalmic Nurse, BNSc Nursing, LAUTECH.
 300+ bed hospital, eye ward leadership, community eye outreaches.
 
-Applicant — Global Master's in Health Informatics, Karolinska Institutet, Sweden. 2026.
+Applicant — Global Master's in Health Informatics, Karolinska Institutet, Sweden. 2027.
 
 Goal: Learn interoperability, clinical decision support, and ethical implementation of eHealth to adapt for low-resource settings like Nigeria.
 
@@ -55,8 +55,7 @@ Goal: Learn interoperability, clinical decision support, and ethical implementat
 #### 6. Contact & Collaboration
 
 Open to collaboration with eHealth students and primary care nurses.
-Email: gabrielfestus@gmail.com 
-Whatsapp: +2347068036236
+Email: gabrielfestus@gmail.com
 
 ---
 *Built by a nurse, for nurses, to keep patients in care.*
